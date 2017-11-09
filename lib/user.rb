@@ -3,7 +3,7 @@ class User
 
   def initialize(first, last)
     @first_name = first
-    @last = last
+    @last_name = last
   end
 
 end
